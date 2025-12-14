@@ -2,16 +2,17 @@
 
 ## Checklist inicial
 
-- [ ] fork desse repositório
-- [ ] criar um arquivo `/relatorio.md` para relatar o que se pede abaixo
+- [X] fork desse repositório
+- [X] criar um arquivo `/relatorio.md` para relatar o que se pede abaixo
 
 ```md
 # Relato da atividade de comunicação entre processo usando sockets
 
 ## Informações gerais
+
 - **disciplina**: Sistemas operacionais
 - **semestre letivo**: 2025.2
-- **aluno**: FIXME seu nome
+- **aluno**: FIXME seu relato
 
 ## Parte 1 — 1 servidor e 1 cliente (bloqueante)
 FIXME seu relato
@@ -50,11 +51,11 @@ python3 src/cliente.py
 
 Checklist (marque ao validar):
 
-- [ ] Servidor inicia sem erros e fica aguardando conexão.
-- [ ] Cliente consegue conectar ao servidor.
-- [ ] Há troca de mensagem/serviço concluída com sucesso (ex.: resposta do servidor exibida).
-- [ ] Conexões são encerradas limpidamente (sem stack traces inesperados).
-- [ ] Descreva brevemente a interação observada (o que o cliente pediu e o que o servidor retornou).
+- [X] Servidor inicia sem erros e fica aguardando conexão.
+- [X] Cliente consegue conectar ao servidor.
+- [X] Há troca de mensagem/serviço concluída com sucesso (ex.: resposta do servidor exibida).
+- [X] Conexões são encerradas limpidamente (sem stack traces inesperados).
+- [X] Descreva brevemente a interação observada (o que o cliente pediu e o que o servidor retornou).
 
 Critérios de aceitação:
 
